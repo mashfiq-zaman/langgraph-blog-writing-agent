@@ -1,0 +1,24 @@
+# secrets - never push these
+.env
+.streamlit/secrets.toml
+
+# virtual environments
+venv/
+myvenv/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks and generated output
+*.ipynb
+.ipynb_checkpoints/
+images/
+*.md
+!README.md
+
+# editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
