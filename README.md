@@ -4,7 +4,7 @@ Give it a topic and it writes a full technical blog post in Markdown, with diagr
 
 Built with LangGraph, Gemini, Tavily search and Streamlit.
 
-**Live app:** _add your Streamlit link here_
+**Live app:** (https://mashfiq-blog-agent.streamlit.app/)
 
 ## How it works
 
